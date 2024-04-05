@@ -5,7 +5,7 @@ import com.example.Tree;
 
 import java.util.*;
 
-public class BinarySearchTree<T extends Comparable> implements Tree<T> {
+public class BinarySearchTree<T extends Comparable<T>> implements Tree<T> {
 
     private BinaryTreeNode<T> root;
     private int count;
@@ -28,7 +28,7 @@ public class BinarySearchTree<T extends Comparable> implements Tree<T> {
 
         T insertedElement = null;
         if (this.root == null) {
-            this.root = new BinaryTreeNode(element);
+            this.root = new BinaryTreeNode<>(element);
             insertedElement = root.element;
         } else {
             insertedElement = insertInto(element, root);
@@ -75,7 +75,9 @@ public class BinarySearchTree<T extends Comparable> implements Tree<T> {
     }
 
     private BinaryTreeNode<T> findNode(T targetElement, BinaryTreeNode<T> next) {
-        if (next == null) return null;
+        if (next == null) {
+            return null;
+        }
 
         if (next.getElement()
                 .equals(targetElement)) return next;
