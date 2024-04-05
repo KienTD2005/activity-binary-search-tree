@@ -1,0 +1,38 @@
+
+g	java:S106˜"+Replace this use of System.err by a logger.(›É½ÒJ$8ea07503-21ff-4b3c-9703-e17aa5955040
+{
+java:S1172´"9Remove these unused method parameters "node", "tempList".(¾ƒ¥ûÿÿÿÿJ$ce729134-6bb5-4a49-be3e-2003c15d71d3
+n
+java:S1135µ"2Complete the task associated to this TODO comment.(˜û¶TJ$ac5f5bab-8695-4931-a9ea-57e9b0497ac4
+v
+java:S1172À"9Remove these unused method parameters "node", "tempList".(¢¸ÀçJ$4c8ebd7f-73e4-46d6-83ba-7c2945fc456f
+o
+java:S1135Á"2Complete the task associated to this TODO comment.(®ÉÍ¾J$c1e6dfb3-2a21-404d-abad-e0a25f9ae3fa
+{
+java:S1172Ì"9Remove these unused method parameters "node", "tempList".(¯«ë‚úÿÿÿÿJ$4a8657f8-8ecd-48f7-ac2e-b6c762a90db2
+t
+java:S1135Í"2Complete the task associated to this TODO comment.(Õ‚ÀùÿÿÿÿJ$ddf43b7d-237f-4958-9d6f-59dd1580f89f
+{
+java:S1172Ø"9Remove these unused method parameters "node", "tempList".(åÿª¹ÿÿÿÿÿJ$e8df095a-9a37-4738-afd4-a9a6295a9d92
+t
+java:S1135Ú"2Complete the task associated to this TODO comment.(ÈîõêşÿÿÿÿJ$71f1f829-2c84-4eec-9eb3-65927b2e13ef
+•
+java:S3776û"SRefactor this method to reduce its Cognitive Complexity from 103 to the 15 allowed.(¶á³¯úÿÿÿÿJ$0206dc89-be01-4f1b-8f6f-0f4d543017a5
+š
+java:S3923¼"]This conditional operation returns the same value whether the condition is "true" or "false".(í¢üªJ$4856ee41-5446-404b-9171-6aa7031e79e9
+l	java:S106Á"+Replace this use of System.out by a logger.(–í˜úÿÿÿÿJ$31fe0303-3be2-44b1-975a-3392e988f718
+g	java:S106Æ"+Replace this use of System.out by a logger.(×•œ²J$1e90b7c5-ba56-4567-ac95-b6c1d72682c9
+f	java:S106Ë"+Replace this use of System.out by a logger.(ø‡÷$J$180d92ad-4fd8-478d-a141-455c68ed8648
+l	java:S106Í"+Replace this use of System.out by a logger.(çÉŠÏşÿÿÿÿJ$05ddbf68-99e4-4b7e-b433-9d5a13672880
+Ÿ
+java:S3923Í"]This conditional operation returns the same value whether the condition is "true" or "false".(çÉŠÏşÿÿÿÿJ$4814ba41-b103-46b3-a356-dea2baea24f8
+l	java:S106Ï"+Replace this use of System.out by a logger.(‹ù¶ãøÿÿÿÿJ$3b3d1428-faa8-4eee-a6ca-553f109055ff
+l	java:S106Ó"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿJ$9aecd111-e83d-412f-98ef-0dbab3a9b506
+g	java:S106à"+Replace this use of System.out by a logger.(×•œ²J$0a55dfbb-dea6-4e80-ad91-2f9335ed3232
+l	java:S106â"+Replace this use of System.out by a logger.(„˜ğ®ÿÿÿÿÿJ$37711983-0e2f-4df1-b3bb-585952e9023a
+g	java:S106ä"+Replace this use of System.out by a logger.(×•œ²J$9b5f284d-8959-4e9c-9c66-daed3dcf57a3
+l	java:S106ç"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿJ$bfffbc3d-2781-4da5-aba8-6078d5a1f56e
+x
+java:S1144Ş"6Remove this unused private "insertionIterator" method.(š‹òåÿÿÿÿÿJ$36f3369e-78b4-4035-9d1e-924a4581b89f
+ˆ
+java:S6541û"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 87 to 64, Complexity from 28 to 14, Nesting Level from 6 to 2, Number of Variables from 24 to 6.(¶á³¯úÿÿÿÿJ$c7b0b330-2eb4-4404-b38f-93f6a6acdbe6

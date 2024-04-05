@@ -1,0 +1,22 @@
+
+š
+java:S3776P"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÓÓ¾˜ÿÿÿÿÿ8Èâ ê1J$d5e81be8-bcc5-4908-a698-ea7d330b6785
+n	java:S106º"+Replace this use of System.err by a logger.(›É½Ò8Îâ ê1J$4c33ccea-aca5-4781-a423-6a2e7cf1aba0
+œ
+java:S3776¶"SRefactor this method to reduce its Cognitive Complexity from 103 to the 15 allowed.(¶á³¯úÿÿÿÿ8Øâ ê1J$f5ad6893-388d-4b15-8a61-cc3263756f8a
+¡
+java:S3923ø"]This conditional operation returns the same value whether the condition is "true" or "false".(í¢üª8İâ ê1J$d3a50bf5-8850-46d0-97a0-f96c4da38c27
+s	java:S106ı"+Replace this use of System.out by a logger.(–í˜úÿÿÿÿ8Şâ ê1J$1cfd9203-f187-4a7c-8684-dca42ded5fd2
+n	java:S106‚"+Replace this use of System.out by a logger.(×•œ²8Şâ ê1J$d5912ae5-9526-4ca7-a606-42fc303bf772
+m	java:S106‡"+Replace this use of System.out by a logger.(ø‡÷$8Şâ ê1J$0b64a3d6-6ac8-40a7-bad2-24c1d754b19e
+s	java:S106‰"+Replace this use of System.out by a logger.(çÉŠÏşÿÿÿÿ8Şâ ê1J$4a2820ed-46fe-4019-9351-4237c0eee6c3
+¦
+java:S3923‰"]This conditional operation returns the same value whether the condition is "true" or "false".(çÉŠÏşÿÿÿÿ8Şâ ê1J$258787bb-c9c2-4576-8d81-944ed74674df
+s	java:S106‹"+Replace this use of System.out by a logger.(‹ù¶ãøÿÿÿÿ8Şâ ê1J$dfa074dc-e23e-41d3-ac87-de731fe4df66
+s	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ßâ ê1J$de3ffaad-9e3b-4b01-ae90-4b39044c2fac
+n	java:S106œ"+Replace this use of System.out by a logger.(×•œ²8àâ ê1J$ab50b662-e2cc-4f7a-82dd-6bb03d1758ff
+s	java:S106"+Replace this use of System.out by a logger.(„˜ğ®ÿÿÿÿÿ8àâ ê1J$ebf8cbc2-075c-4049-83e7-54ded1a7c564
+n	java:S106 "+Replace this use of System.out by a logger.(×•œ²8áâ ê1J$791a2e40-c813-488f-be4c-3bf2b7d2949e
+s	java:S106£"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8áâ ê1J$02f7e3fe-ed18-4d6b-86a8-eafd6c734446
+
+java:S6541¶"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 87 to 64, Complexity from 28 to 14, Nesting Level from 6 to 2, Number of Variables from 24 to 6.(¶á³¯úÿÿÿÿ8äâ ê1J$af05da15-0aa9-4644-a245-bd33538f4433

@@ -1,0 +1,14 @@
+
+E
+java:S3740>"/Provide the parametrized type for this generic.(ÿ×ÿã
+E	java:S106("+Replace this use of System.out by a logger.(ğùÓêüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(âÌÜâÿÿÿÿÿ
+E	java:S106+"+Replace this use of System.out by a logger.(Åî‡Ïúÿÿÿÿ
+E	java:S106."+Replace this use of System.out by a logger.(¢™ÅÁşÿÿÿÿ
+E	java:S1061"+Replace this use of System.out by a logger.(çé»‡ùÿÿÿÿ
+E	java:S1064"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ
+P	java:S1257"<This block of commented-out lines of code should be removed.(şøÇG
+V	java:S1259"<This block of commented-out lines of code should be removed.(—Ûóäûÿÿÿÿ
+E	java:S106C"+Replace this use of System.out by a logger.(µ¿µÎøÿÿÿÿ
+`
+java:S1128">Remove this unused import 'com.example.binarytree.BinaryTree'.(’œ©Ûüÿÿÿÿ8¿ÙØŞê1
